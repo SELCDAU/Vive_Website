@@ -66,7 +66,7 @@ function LandingPage() {
             <div className="relative">
               <div className="relative z-10">
                 <img
-                  src="/Screenshot_2026-02-05_at_11.38.28_AM.jpg"
+                  src="/Cover.png"
                   alt="VIVE App Features"
                   className="rounded-3xl shadow-2xl w-full"
                 />
