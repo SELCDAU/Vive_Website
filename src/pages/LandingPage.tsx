@@ -179,7 +179,7 @@ function LandingPage() {
             </a>
 
             <a
-              href="https://www.apple.com/app-store/"
+              href="https://apps.apple.com/in/app/vive-empower-sustainability/id6759646583"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-8 py-4 bg-black text-white rounded-2xl font-semibold hover:bg-gray-900 transition transform hover:scale-105 shadow-lg hover:shadow-xl"
@@ -203,7 +203,7 @@ function LandingPage() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <img 
-                  src="/Vive_Logo.png" 
+                  src="/Vive_Logo_White.png" 
                   alt="VIVE Logo" 
                   className="h-12 w-auto"
                 />
