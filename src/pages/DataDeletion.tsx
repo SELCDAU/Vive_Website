@@ -10,7 +10,7 @@ function DataDeletion() {
             <Link to="/" className="flex items-center space-x-2">
               <img 
                 src="/Vive_Logo.png" 
-                alt="VIVE Logo" 
+                alt="ECOVERSE Logo" 
                 className="h-12 w-auto"
               />
             </Link>
@@ -31,7 +31,7 @@ function DataDeletion() {
           </div>
 
           <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-            At VIVE, we respect your privacy and your right to control your personal data. This page explains how you can request deletion of your data from our services.
+            At ECOVERSE, we respect your privacy and your right to control your personal data. This page explains how you can request deletion of your data from our services.
           </p>
 
           <div className="bg-blue-50 border-l-4 border-blue-600 p-6 rounded-lg mb-8">
@@ -67,7 +67,7 @@ function DataDeletion() {
               <div className="bg-gray-50 p-6 rounded-xl">
                 <h3 className="font-semibold text-gray-900 mb-3">Option 1: In-App Deletion</h3>
                 <ol className="space-y-2 text-gray-600 ml-6">
-                  <li className="list-decimal">Open the VIVE app and go to your profile</li>
+                  <li className="list-decimal">Open the ECOVERSE app and go to your profile</li>
                   <li className="list-decimal">Navigate to Settings → Account Settings</li>
                   <li className="list-decimal">Scroll down and select "Delete My Account"</li>
                   <li className="list-decimal">Confirm your decision and authenticate</li>

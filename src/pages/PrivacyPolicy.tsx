@@ -10,7 +10,7 @@ function PrivacyPolicy() {
             <Link to="/" className="flex items-center space-x-2">
               <img 
                 src="/Vive_Logo.png" 
-                alt="VIVE Logo" 
+                alt="ECOVERSE Logo" 
                 className="h-12 w-auto"
               />
             </Link>
@@ -31,7 +31,7 @@ function PrivacyPolicy() {
           </div>
 
           <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-            At VIVE, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and safeguard your data.
+            At ECOVERSE, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and safeguard your data.
           </p>
 
           <section className="mb-10">
@@ -163,7 +163,7 @@ function PrivacyPolicy() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Location Services</h2>
             <p className="text-gray-600 mb-4">
-              VIVE uses location services to track your carbon footprint and provide environmental insights. You can control location permissions in your device settings. Disabling location services will limit certain features:
+              ECOVERSE uses location services to track your carbon footprint and provide environmental insights. You can control location permissions in your device settings. Disabling location services will limit certain features:
             </p>
             <ul className="space-y-2 text-gray-600 ml-8">
               <li className="list-disc">Carbon footprint calculations from travel</li>
@@ -175,14 +175,14 @@ function PrivacyPolicy() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Children's Privacy</h2>
             <p className="text-gray-600">
-              VIVE is not intended for children under 13 years of age. We do not knowingly collect personal information from children. If you believe we have collected data from a child, please contact us immediately.
+              ECOVERSE is not intended for children under 13 years of age. We do not knowingly collect personal information from children. If you believe we have collected data from a child, please contact us immediately.
             </p>
           </section>
 
           <section className="mb-10">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Changes to This Policy</h2>
             <p className="text-gray-600">
-              We may update this Privacy Policy periodically. We will notify you of significant changes via email or in-app notification. Continued use of VIVE after changes indicates acceptance of the updated policy.
+              We may update this Privacy Policy periodically. We will notify you of significant changes via email or in-app notification. Continued use of ECOVERSE after changes indicates acceptance of the updated policy.
             </p>
           </section>
 

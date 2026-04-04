@@ -10,7 +10,7 @@ function LandingPage() {
             <div className="flex items-center space-x-2">
               <img 
                 src="/Vive_Logo.png" 
-                alt="VIVE Logo" 
+                alt="ECOVERSE Logo" 
                 className="h-12 w-auto"
               />
             </div>
@@ -67,7 +67,7 @@ function LandingPage() {
               <div className="relative z-10">
                 <img
                   src="/Cover.png"
-                  alt="VIVE App Features"
+                  alt="ECOVERSE App Features"
                   className="rounded-3xl shadow-2xl w-full"
                 />
               </div>
@@ -159,7 +159,7 @@ function LandingPage() {
             Ready to Make an Impact?
           </h2>
           <p className="text-xl text-green-50 mb-12 max-w-2xl mx-auto">
-            Download VIVE today and start your journey towards a sustainable future
+            Download ECOVERSE today and start your journey towards a sustainable future
           </p>
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
@@ -204,7 +204,7 @@ function LandingPage() {
               <div className="flex items-center space-x-2 mb-4">
                 <img 
                   src="/Vive_Logo_White.png" 
-                  alt="VIVE Logo" 
+                  alt="ECOVERSE Logo" 
                   className="h-12 w-auto"
                 />
               </div>
@@ -232,7 +232,7 @@ function LandingPage() {
           </div>
 
           <div className="border-t border-gray-800 pt-8 text-center text-sm text-gray-400">
-            <p>&copy; 2026 VIVE. All rights reserved.</p>
+            <p>&copy; 2026 ECOVERSE. All rights reserved.</p>
           </div>
         </div>
       </footer>
