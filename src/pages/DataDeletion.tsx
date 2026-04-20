@@ -8,9 +8,9 @@ function DataDeletion() {
         <nav className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <Link to="/" className="flex items-center space-x-2">
-              <img 
-                src="/Vive_Logo.png" 
-                alt="ECOVERSE Logo" 
+              <img
+                src="/Logo_Hori.png"
+                alt="ECOVERSE Logo"
                 className="h-12 w-auto"
               />
             </Link>

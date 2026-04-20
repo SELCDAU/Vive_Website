@@ -8,9 +8,9 @@ function LandingPage() {
         <nav className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
-              <img 
-                src="/Vive_Logo.png" 
-                alt="ECOVERSE Logo" 
+              <img
+                src="/Logo_Hori.png"
+                alt="ECOVERSE Logo"
                 className="h-12 w-auto"
               />
             </div>
@@ -202,9 +202,9 @@ function LandingPage() {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
               <div className="flex items-center space-x-2 mb-4">
-                <img 
-                  src="/Vive_Logo_White.png" 
-                  alt="ECOVERSE Logo" 
+                <img
+                  src="/Logo_Horizontal.png"
+                  alt="ECOVERSE Logo"
                   className="h-12 w-auto"
                 />
               </div>
