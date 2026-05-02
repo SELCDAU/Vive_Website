@@ -18,6 +18,7 @@ function LandingPage() {
               <a href="#features" className="text-gray-600 hover:text-green-600 transition">Features</a>
               <a href="#download" className="text-gray-600 hover:text-green-600 transition">Download</a>
               <Link to="/privacy-policy" className="text-gray-600 hover:text-green-600 transition">Privacy</Link>
+              <Link to="/support" className="text-gray-600 hover:text-green-600 transition">Support</Link>
             </div>
           </div>
         </nav>
@@ -226,6 +227,7 @@ function LandingPage() {
               <ul className="space-y-2 text-sm">
                 <li><Link to="/privacy-policy" className="hover:text-green-500 transition">Privacy Policy</Link></li>
                 <li><Link to="/data-deletion" className="hover:text-green-500 transition">Data Deletion</Link></li>
+                <li><Link to="/support" className="hover:text-green-500 transition">Support</Link></li>
               </ul>
             </div>
 
